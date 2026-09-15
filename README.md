@@ -39,7 +39,7 @@ PyTorch · Docker · Cloud · vLLM · Distributed Training
 
 I'm currently rebuilding my public portfolio around production AI engineering.
 
-Projects coming here will focus on:
+Projects I am currently focussing on:
 
 - Production AI Agent
 - Financial RAG & Retrieval
@@ -47,3 +47,4 @@ Projects coming here will focus on:
 - LLM Serving & Inference
 - Speech AI Evaluation
 - Deep Learning Systems from First Principles
+
