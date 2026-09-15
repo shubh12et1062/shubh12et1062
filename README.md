@@ -47,6 +47,3 @@ Projects coming here will focus on:
 - LLM Serving & Inference
 - Speech AI Evaluation
 - Deep Learning Systems from First Principles
-
----
-
