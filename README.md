@@ -1,4 +1,4 @@
-# Hi, I'm Shubham Biswas 👋
+# Hi, I'm Subham Biswas 👋
 
 ### Data Scientist | ML Systems & AI Engineering
 
